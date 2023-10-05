@@ -1,4 +1,7 @@
-# Recomposition
-Using recomposition of non-semantic tags to semantic tags, i was able to keep the webpage looking the same while allowing the end users to view it even if they were to use a screen reader.
-It also helps on the development end to allow other developers to easily understand what areas of the code line up to what they are seeing at a quick glance.
-This makes it easier for anyone, whether me or another developer, to go in and make any necessary changes to the code.
+# Probable-Bassoon
+
+# Steps
+
+## first it was determining what of all of the tags were considered non semantic and understanding how they were layed out on the page.
+
+## there was 6 different sections of code that were duplicated 3 times each and just needed to be consolidated based on how they were being targeted.
